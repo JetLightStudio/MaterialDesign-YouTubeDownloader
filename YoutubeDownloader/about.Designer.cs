@@ -168,7 +168,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(300, 367);
+            this.ClientSize = new System.Drawing.Size(300, 323);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label4);
@@ -176,6 +176,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.panel2);
+            this.MaximumSize = new System.Drawing.Size(300, 323);
             this.MinimumSize = new System.Drawing.Size(300, 323);
             this.Name = "about";
             this.panel2.ResumeLayout(false);
