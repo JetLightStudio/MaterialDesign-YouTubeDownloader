@@ -97,20 +97,20 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(38, 214);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(80, 16);
+            this.label4.Size = new System.Drawing.Size(84, 16);
             this.label4.TabIndex = 9;
             this.label4.Text = "Folder Path:";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(38, 44);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(67, 16);
+            this.label3.Size = new System.Drawing.Size(71, 16);
             this.label3.TabIndex = 8;
             this.label3.Text = "Video Url:";
             // 
@@ -137,10 +137,10 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(38, 100);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(75, 16);
+            this.label2.Size = new System.Drawing.Size(78, 16);
             this.label2.TabIndex = 5;
             this.label2.Text = "Resolution:";
             // 
@@ -155,7 +155,7 @@
             this.textBox1.SelectedText = "";
             this.textBox1.SelectionLength = 0;
             this.textBox1.SelectionStart = 0;
-            this.textBox1.Size = new System.Drawing.Size(282, 23);
+            this.textBox1.Size = new System.Drawing.Size(310, 23);
             this.textBox1.TabIndex = 2;
             this.textBox1.UseSystemPasswordChar = false;
             // 
@@ -170,7 +170,7 @@
             this.txtURL.SelectedText = "";
             this.txtURL.SelectionLength = 0;
             this.txtURL.SelectionStart = 0;
-            this.txtURL.Size = new System.Drawing.Size(282, 23);
+            this.txtURL.Size = new System.Drawing.Size(310, 23);
             this.txtURL.TabIndex = 1;
             this.txtURL.UseSystemPasswordChar = false;
             // 
@@ -181,7 +181,7 @@
             this.materialRaisedButton1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialRaisedButton1.Name = "materialRaisedButton1";
             this.materialRaisedButton1.Primary = true;
-            this.materialRaisedButton1.Size = new System.Drawing.Size(133, 32);
+            this.materialRaisedButton1.Size = new System.Drawing.Size(133, 36);
             this.materialRaisedButton1.TabIndex = 0;
             this.materialRaisedButton1.Text = "Download";
             this.materialRaisedButton1.UseVisualStyleBackColor = true;
